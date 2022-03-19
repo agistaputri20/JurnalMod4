@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = modul4_1302201140
+build_property.ProjectDir = E:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\JurnalMod4\modul4_1302201140\modul4_1302201140\
